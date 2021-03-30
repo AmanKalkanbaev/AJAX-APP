@@ -1,0 +1,11 @@
+.Todos{
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    background-color: rgb(233, 233, 233);
+}
+
+.Todos article {
+    flex: 1 1 50%;
+    padding: 2rem;
+}

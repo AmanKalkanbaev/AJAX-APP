@@ -1,0 +1,22 @@
+.Comments{
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    background-color: rgb(233, 233, 233);
+}
+
+.Comments article {
+    flex: 1 1 50%;
+    padding: 2rem;
+}
+
+.Comments article strong {
+    color: rgb(0, 17, 255);
+    padding-left: 30px;
+}
+.Comments article p {
+    margin-top: 10px;
+}
+.Comments article h3{
+    margin-bottom: 12px;
+}

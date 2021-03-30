@@ -1,0 +1,11 @@
+.Users{
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    background-color: rgb(177, 177, 177);
+}
+
+.Users article {
+    flex: 1 1 50%;
+    padding: 2rem;
+}

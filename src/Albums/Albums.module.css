@@ -1,0 +1,11 @@
+.Albums{
+    display: flex;
+    flex-flow: row wrap;
+    padding: 10px;
+    background-color: rgb(255, 209, 209);
+}
+
+.Albums article {
+    flex: 1 1 50%;
+    padding: 2rem;
+}
